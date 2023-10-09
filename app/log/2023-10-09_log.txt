@@ -1,0 +1,16 @@
+2023-10-09 13:56:58,410 INFO --------------------------------------------------------------------------------
+2023-10-09 13:56:58,410 INFO LAUNCHING at 2023-10-09 13:56:58.410521
+2023-10-09 13:57:05,932 INFO User-1. Trying to get album 'profile'
+2023-10-09 13:57:06,059 INFO Backing up to /backup_user-1_2023-10-09
+2023-10-09 13:57:06,059 INFO Creating a folder: /backup_user-1_2023-10-09
+2023-10-09 13:57:06,983 INFO Uploading: /backup_user-1_2023-10-09/722262.jpg
+2023-10-09 13:57:07,583 INFO Uploading: /backup_user-1_2023-10-09/979098.jpg
+2023-10-09 13:57:07,993 INFO Uploading: /backup_user-1_2023-10-09/873904.jpg
+2023-10-09 13:57:08,403 INFO Uploading: /backup_user-1_2023-10-09/664648.jpg
+2023-10-09 13:57:08,964 INFO Uploading: /backup_user-1_2023-10-09/753349.jpg
+2023-10-09 13:57:09,607 INFO Uploading: /backup_user-1_2023-10-09/599184.jpg
+2023-10-09 13:57:10,058 INFO Uploading: /backup_user-1_2023-10-09/1476189.jpg
+2023-10-09 13:57:11,065 INFO Uploading: /backup_user-1_2023-10-09/575111.jpg
+2023-10-09 13:57:11,424 INFO Uploading: /backup_user-1_2023-10-09/271402.jpg
+2023-10-09 13:57:12,210 INFO Finished
+2023-10-09 13:57:12,211 INFO Report generated at ./app/reports/2023-10-09/135712.211274_user-1.json
